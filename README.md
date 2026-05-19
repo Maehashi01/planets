@@ -2,7 +2,7 @@
 
 # practice repository
 
-this is a list
- -red
- -blue
- -yellow
+this is a color list
+ - red
+ - blue
+ - yellow
